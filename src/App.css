@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.App-descripcion {
+  height: 8vmin;
+  pointer-events: none;
+}
+.Form {
+  width:30%;
+  margin-top: 50px;
+}
+.Containers{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: calc(3px + 2vmin);
+}
+
+
+
+
